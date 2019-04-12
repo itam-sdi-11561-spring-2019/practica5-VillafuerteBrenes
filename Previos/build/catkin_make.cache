@@ -1,0 +1,2 @@
+ejemplo
+-DCATKIN_DEVEL_PREFIX=/home/robotica/practica5-VillafuerteBrenes/archivosPrevios/devel -DCMAKE_INSTALL_PREFIX=/home/robotica/practica5-VillafuerteBrenes/archivosPrevios/install -G Unix Makefiles

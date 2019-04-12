@@ -1,0 +1,8 @@
+prefix=/home/robotica/practica5-VillafuerteBrenes/archivosPrevios/install
+
+Name: ejemplo
+Description: Description of ejemplo
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/robotica/practica5-VillafuerteBrenes/archivosPrevios/install/lib 
+Requires: 
