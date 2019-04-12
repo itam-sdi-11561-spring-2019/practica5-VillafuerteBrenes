@@ -1,0 +1,2 @@
+ardRos
+-DCATKIN_DEVEL_PREFIX=/home/robotica/practica5-VillafuerteBrenes/arduinoRos/devel -DCMAKE_INSTALL_PREFIX=/home/robotica/practica5-VillafuerteBrenes/arduinoRos/install -G Unix Makefiles
